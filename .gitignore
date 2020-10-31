@@ -2,5 +2,5 @@ design-model.mwb.bak
 REVA-daily-query (copy).sql
 .vscode
 *.class
-
-*.txt
+venv/
+ref.txt
