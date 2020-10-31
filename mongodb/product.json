@@ -1,202 +1,177 @@
 [
     {
         "id": "1",
-        "product_name": "Rustic Metal Shirt",
-        "product_price": "259.00",
-        "product": "Soap",
-        "product_dept": "Tools",
-        "product_material": "Concrete"
+        "product_name": "Intelligent Fresh Chips",
+        "product_price": "655.00",
+        "product_material": "Concrete",
+        "product_color": "mint green"
     },
     {
         "id": "2",
-        "product_name": "Handcrafted Wooden Table",
-        "product_price": "746.00",
-        "product": "Car",
-        "product_dept": "Sports",
-        "product_material": "Granite"
+        "product_name": "Practical Fresh Sausages",
+        "product_price": "911.00",
+        "product_material": "Cotton",
+        "product_color": "indigo"
     },
     {
         "id": "3",
-        "product_name": "Handcrafted Frozen Bike",
-        "product_price": "623.00",
-        "product": "Towels",
-        "product_dept": "Industrial",
-        "product_material": "Plastic"
+        "product_name": "Refined Steel Car",
+        "product_price": "690.00",
+        "product_material": "Rubber",
+        "product_color": "gold"
     },
     {
         "id": "4",
-        "product_name": "Intelligent Concrete Computer",
-        "product_price": "773.00",
-        "product": "Fish",
-        "product_dept": "Automotive",
-        "product_material": "Steel"
+        "product_name": "Gorgeous Plastic Pants",
+        "product_price": "492.00",
+        "product_material": "Soft",
+        "product_color": "plum"
     },
     {
         "id": "5",
-        "product_name": "Licensed Metal Bike",
-        "product_price": "200.00",
-        "product": "Fish",
-        "product_dept": "Sports",
-        "product_material": "Plastic"
+        "product_name": "Sleek Cotton Chair",
+        "product_price": "33.00",
+        "product_material": "Fresh",
+        "product_color": "black"
     },
     {
         "id": "6",
-        "product_name": "Ergonomic Granite Computer",
-        "product_price": "230.00",
-        "product": "Bike",
-        "product_dept": "Movies",
-        "product_material": "Fresh"
+        "product_name": "Awesome Wooden Towels",
+        "product_price": "474.00",
+        "product_material": "Plastic",
+        "product_color": "orange"
     },
     {
         "id": "7",
-        "product_name": "Ergonomic Steel Salad",
-        "product_price": "669.00",
-        "product": "Mouse",
-        "product_dept": "Movies",
-        "product_material": "Metal"
+        "product_name": "Practical Soft Shoes",
+        "product_price": "500.00",
+        "product_material": "Rubber",
+        "product_color": "pink"
     },
     {
         "id": "8",
-        "product_name": "Tasty Rubber Fish",
-        "product_price": "774.00",
-        "product": "Tuna",
-        "product_dept": "Home",
-        "product_material": "Fresh"
+        "product_name": "Incredible Steel Hat",
+        "product_price": "778.00",
+        "product_material": "Rubber",
+        "product_color": "violet"
     },
     {
         "id": "9",
-        "product_name": "Handmade Soft Sausages",
-        "product_price": "261.00",
-        "product": "Chicken",
-        "product_dept": "Movies",
-        "product_material": "Steel"
+        "product_name": "Awesome Wooden Ball",
+        "product_price": "428.00",
+        "product_material": "Soft",
+        "product_color": "azure"
     },
     {
         "id": "10",
-        "product_name": "Ergonomic Steel Bike",
-        "product_price": "976.00",
-        "product": "Cheese",
-        "product_dept": "Games",
-        "product_material": "Plastic"
+        "product_name": "Generic Wooden Pizza",
+        "product_price": "284.00",
+        "product_material": "Frozen",
+        "product_color": "indigo"
     },
     {
         "id": "11",
-        "product_name": "Gorgeous Rubber Shoes",
-        "product_price": "686.00",
-        "product": "Shirt",
-        "product_dept": "Tools",
-        "product_material": "Wooden"
+        "product_name": "Unbranded Wooden Cheese",
+        "product_price": "26.00",
+        "product_material": "Soft",
+        "product_color": "black"
     },
     {
         "id": "12",
-        "product_name": "Tasty Steel Hat",
-        "product_price": "621.00",
-        "product": "Mouse",
-        "product_dept": "Toys",
-        "product_material": "Frozen"
+        "product_name": "Unbranded Plastic Salad",
+        "product_price": "589.00",
+        "product_material": "Wooden",
+        "product_color": "pink"
     },
     {
         "id": "13",
-        "product_name": "Handmade Metal Bacon",
-        "product_price": "650.00",
-        "product": "Salad",
-        "product_dept": "Movies",
-        "product_material": "Plastic"
+        "product_name": "Gorgeous Cotton Keyboard",
+        "product_price": "937.00",
+        "product_material": "Concrete",
+        "product_color": "sky blue"
     },
     {
         "id": "14",
-        "product_name": "Incredible Cotton Chips",
-        "product_price": "348.00",
-        "product": "Gloves",
-        "product_dept": "Computers",
-        "product_material": "Cotton"
+        "product_name": "Incredible Steel Shirt",
+        "product_price": "854.00",
+        "product_material": "Metal",
+        "product_color": "white"
     },
     {
         "id": "15",
-        "product_name": "Small Metal Salad",
-        "product_price": "523.00",
-        "product": "Chips",
-        "product_dept": "Music",
-        "product_material": "Concrete"
+        "product_name": "Ergonomic Cotton Hat",
+        "product_price": "603.00",
+        "product_material": "Rubber",
+        "product_color": "mint green"
     },
     {
         "id": "16",
-        "product_name": "Licensed Rubber Pizza",
-        "product_price": "479.00",
-        "product": "Pizza",
-        "product_dept": "Clothing",
-        "product_material": "Cotton"
+        "product_name": "Small Soft Chair",
+        "product_price": "347.00",
+        "product_material": "Cotton",
+        "product_color": "teal"
     },
     {
         "id": "17",
-        "product_name": "Tasty Concrete Sausages",
-        "product_price": "401.00",
-        "product": "Bacon",
-        "product_dept": "Home",
-        "product_material": "Plastic"
+        "product_name": "Incredible Metal Car",
+        "product_price": "36.00",
+        "product_material": "Fresh",
+        "product_color": "indigo"
     },
     {
         "id": "18",
-        "product_name": "Awesome Granite Soap",
-        "product_price": "204.00",
-        "product": "Shoes",
-        "product_dept": "Baby",
-        "product_material": "Steel"
+        "product_name": "Licensed Plastic Bacon",
+        "product_price": "88.00",
+        "product_material": "Steel",
+        "product_color": "yellow"
     },
     {
         "id": "19",
-        "product_name": "Sleek Frozen Tuna",
-        "product_price": "433.00",
-        "product": "Tuna",
-        "product_dept": "Music",
-        "product_material": "Plastic"
+        "product_name": "Intelligent Cotton Chips",
+        "product_price": "146.00",
+        "product_material": "Soft",
+        "product_color": "azure"
     },
     {
         "id": "20",
-        "product_name": "Licensed Granite Fish",
-        "product_price": "703.00",
-        "product": "Mouse",
-        "product_dept": "Electronics",
-        "product_material": "Soft"
+        "product_name": "Handcrafted Wooden Bacon",
+        "product_price": "936.00",
+        "product_material": "Concrete",
+        "product_color": "lime"
     },
     {
         "id": "21",
-        "product_name": "Ergonomic Granite Cheese",
-        "product_price": "209.00",
-        "product": "Shirt",
-        "product_dept": "Games",
-        "product_material": "Cotton"
+        "product_name": "Unbranded Granite Chicken",
+        "product_price": "990.00",
+        "product_material": "Metal",
+        "product_color": "gold"
     },
     {
         "id": "22",
-        "product_name": "Awesome Plastic Bacon",
-        "product_price": "156.00",
-        "product": "Chicken",
-        "product_dept": "Movies",
-        "product_material": "Soft"
+        "product_name": "Ergonomic Soft Hat",
+        "product_price": "799.00",
+        "product_material": "Rubber",
+        "product_color": "black"
     },
     {
         "id": "23",
-        "product_name": "Practical Frozen Mouse",
-        "product_price": "180.00",
-        "product": "Bacon",
-        "product_dept": "Music",
-        "product_material": "Soft"
+        "product_name": "Intelligent Steel Pizza",
+        "product_price": "595.00",
+        "product_material": "Cotton",
+        "product_color": "azure"
     },
     {
         "id": "24",
-        "product_name": "Tasty Steel Keyboard",
-        "product_price": "496.00",
-        "product": "Gloves",
-        "product_dept": "Grocery",
-        "product_material": "Wooden"
+        "product_name": "Tasty Rubber Cheese",
+        "product_price": "47.00",
+        "product_material": "Frozen",
+        "product_color": "orchid"
     },
     {
         "id": "25",
-        "product_name": "Rustic Cotton Car",
-        "product_price": "351.00",
-        "product": "Gloves",
-        "product_dept": "Outdoors",
-        "product_material": "Soft"
+        "product_name": "Licensed Steel Car",
+        "product_price": "20.00",
+        "product_material": "Cotton",
+        "product_color": "indigo"
     }
 ]
