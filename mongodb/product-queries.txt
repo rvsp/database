@@ -6,5 +6,5 @@ Find the product name and product material of each products
 Find the product with a row id of 10
 Find only the product name and product material
 Find all products which contain the value of soft in product material 
-Find products which contain product color and product price are same
+Find products which contain product color indigo  and product price 492.00
 Delete the products which product price value are same
